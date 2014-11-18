@@ -34,6 +34,7 @@ class ViewController: UIViewController {
         menConvertedShoeSizeLabel.hidden = false
         let stringShoeSize = "\(integerFromText)"
         menConvertedShoeSizeLabel.text = stringShoeSize
+        let sizes = menShoeSizeText.text
     
     }
 }
